@@ -1,9 +1,13 @@
 # DBpedia-precison-recall
 # Calculation of precision and recall of DBpedia spotlight tool by calling its REST API at different confidence levels and matching the results with the result at confidence 0 which has maximum recommendations possible by the tool.
+
 Step 1:Setup
+
 1) Create a maven java project 
+
 2) Add these dependencies in pom.xml for rest api consumption and client creation
-  <dependency>
+
+<dependency>
 	    <groupId>javax.ws.rs</groupId>
 	    <artifactId>javax.ws.rs-api</artifactId>
 	    <version>2.1.1</version>
@@ -28,13 +32,16 @@ Step 1:Setup
     <artifactId>poi-ooxml</artifactId>
     <version>3.9</version>
 </dependency>
+
 Step 2: Creation of dataset
+
 1) Set path to the text file that has to be used for annotation using dbpedia rest api . Change this in main() of 'Consume' class (pathToTestData="H:\\test file\\test.txt").
 2) Set path to the location for dataset creation and name of .xlsc file . Change this in createDataset() of 'Dataset' class (pathToDatasetCreated="H:\\dataset.xlsx")
 3) Manually corrected the entries in .xlsc file after matching with dbpedia spotlight tool and create correct dataset.
 4) Set path to the location of .xlsc file for map creation for corect dataset . Change this in createCorrectDatasetMap() of 'Dataset' class (pathToDatasetCreated="H:\\dataset.xlsx")
 
 Step 3: Execution for calculating precision and recall.
+
 1) After correcting the dataset only calculate precision and recall for diferent confidence values. Do this using option 2 in menu driven program.
 
 # For simplicity, attaching the 'test.txt' containing test resume lines and corresponding corrected dataset 'dataset.xlsc' files.
