@@ -1,5 +1,5 @@
 # DBpedia-precison-recall
-# Calculation of precision and recall of DBpedia spotlight tool by calling its REST API at different confidence levels and matching the results with the result at confidence 0 which has maximum recommendations possible by the tool.
+---Calculation of precision and recall of DBpedia spotlight tool by calling its REST API at different confidence levels and matching the results with the result at confidence 0 which has maximum recommendations possible by the tool.
 
 Step 1:Setup
 
@@ -37,11 +37,11 @@ Step 3: Execution for calculating precision and recall.
 
 1) After correcting the dataset only calculate precision and recall for diferent confidence values. Do this using option 2 in menu driven program.
 
-# For simplicity, attaching the 'test.txt' containing test resume lines and corresponding corrected dataset 'dataset.xlsc' files.
+---For simplicity, attaching the 'test.txt' containing test resume lines and corresponding corrected dataset 'dataset.xlsc' files.
 Just change the path of locations where these files are stored on your system as explained in step 2: Creation of Dataset above.
 
-# Algorithm for Precision and Recall:
-# Precision:-
+---Algorithm for Precision and Recall:
+---Precision:-
 Precision = TruePositives / (TruePositives + FalsePositives)
 TruePositives=correct predicts by dbpedia spotlight
 FalsePositives=wrong predicts
@@ -50,7 +50,7 @@ FalsePositives=wrong predicts
 2) If prresent and values for that surface form are same then truePositive++
 3) If values are not same then FalsePositives++
 
-# Recall:-
+---Recall:-
 Recall = TruePositives / (TruePositives + FalseNegatives)
 TruePositives=correct predicts by dbpedia spotlight
 FalseNegatives=missed predictions at a particular confidence value
