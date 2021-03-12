@@ -6,32 +6,25 @@ Step 1:Setup
 1) Create a maven java project 
 
 2) Add these dependencies in pom.xml for rest api consumption and client creation
-
-<dependency>
-	    <groupId>javax.ws.rs</groupId>
-	    <artifactId>javax.ws.rs-api</artifactId>
-	    <version>2.1.1</version>
-	</dependency>
-	<dependency>
-	    <groupId>org.jboss.resteasy</groupId>
-	    <artifactId>resteasy-client</artifactId>
-	    <version>3.0.2.Final</version>
-	</dependency>
-	<dependency>
-	   <groupId>javax</groupId>
-	   <artifactId>javaee-api</artifactId>
-	   <version>7.0</version>
-	</dependency>
-<dependency>
-    <groupId>com.googlecode.json-simple</groupId>
-    <artifactId>json-simple</artifactId>
-    <version>1.1.1</version>
-</dependency>
-<dependency>
-    <groupId>org.apache.poi</groupId>
-    <artifactId>poi-ooxml</artifactId>
-    <version>3.9</version>
-</dependency>
+	<groupId>javax.ws.rs</groupId>
+	<artifactId>javax.ws.rs-api</artifactId>
+	<version>2.1.1</version>
+	
+	<groupId>org.jboss.resteasy</groupId>
+	<artifactId>resteasy-client</artifactId>
+	<version>3.0.2.Final</version>
+	
+	<groupId>javax</groupId>
+   	<artifactId>javaee-api</artifactId>
+   	<version>7.0</version>
+	
+	<groupId>com.googlecode.json-simple</groupId>
+	<artifactId>json-simple</artifactId>
+	<version>1.1.1</version>
+	
+	<groupId>org.apache.poi</groupId>
+        <artifactId>poi-ooxml</artifactId>
+        <version>3.9</version>
 
 Step 2: Creation of dataset
 
