@@ -43,9 +43,11 @@ Just change the path of locations where these files are stored on your system as
 # Algorithm for Precision and Recall
 
 --> Precision:-
+
 Precision = TruePositives / (TruePositives + FalsePositives)
 
 TruePositives=correct predicts by dbpedia spotlight
+
 FalsePositives=wrong predicts
 
 1) While checking for response on a particular confidence value, checking each surface form if present in the correct map for dataset.
@@ -53,9 +55,11 @@ FalsePositives=wrong predicts
 3) If values are not same then FalsePositives++
 
 --> Recall:-
+
 Recall = TruePositives / (TruePositives + FalseNegatives)
 
 TruePositives=correct predicts by dbpedia spotlight
+
 FalseNegatives=missed predictions at a particular confidence value
 
 1) While checking for response on a particular confidence value, checking each surface form if present in the correct map for dataset.
