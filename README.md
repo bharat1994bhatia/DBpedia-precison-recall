@@ -44,6 +44,7 @@ Just change the path of locations where these files are stored on your system as
 
 --> Precision:-
 Precision = TruePositives / (TruePositives + FalsePositives)
+
 TruePositives=correct predicts by dbpedia spotlight
 FalsePositives=wrong predicts
 
@@ -53,6 +54,7 @@ FalsePositives=wrong predicts
 
 --> Recall:-
 Recall = TruePositives / (TruePositives + FalseNegatives)
+
 TruePositives=correct predicts by dbpedia spotlight
 FalseNegatives=missed predictions at a particular confidence value
 
