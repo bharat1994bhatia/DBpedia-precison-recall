@@ -1,0 +1,69 @@
+1 Worked as intermediate with clients and built team to maximize investment in $10M upgrade project
+2 Worked to facilitate agreements between urban planners and commercial construction companies for five different city projects
+3 Worked with public officials of fire and police to ensure the best design for emergency and security protocols of five different city projects
+4 Advised software designers on 200 templates for practical city planning	
+5 Worked to educate 10 different clients on sustainability and maintenance requirements of commercial upgrades
+6 Created 20 different commercial designs around innovative integration of traditional buildings and environmentally sustainable redevelopments
+7 Worked with 15 other designers and engineers on a project to upgrade security protocols of a five-mile commercial campus
+8 Work with development team on creating mobile app for new product launchs
+9 Manage department metrics report and database
+10 Develop SharePoint page for IT department and manage updates
+11 Test and develop database management plan
+12 Research existing database methods and create study for suggested changes
+13 Lead data base project with 5 team members
+14 Lead weekly conference calls with management for status updates on project
+15 Create and maintain fully automated CI/CD pipelines for code deployment using Octopus Deploy and PowerShell
+16 Actively manage, improve, and monitor cloud infrastructure on AWS, EC2, S3, and RDS, including backups, patches, and scaling
+17 Reduced costs by ~$3,000 each month by eliminating unnecessary servers and consolidating databases
+18 Built and deployed Docker containers to break up monolithic app into microservices, improving developer workflow, increasing scalability, and optimizing speed
+19 Wrote Puppet manifests and modules to deploy, configure, and manage servers
+20 Automated build and deployment using Jenkins to reduce human error and speed up production processes
+21 Reduced deployment time for critical agile project infrastructure from ~1 month to 2 days
+22 Installed and configured Nagios to constantly monitor network bandwidth, memory usage, and hard drive status
+23 Managed GitHub repositories and permissions, including branching and tagging
+24 Configuration management using Puppet, Ansible, and Chef
+25 Knowledge of Python, C/C++, and Java
+26 Version control systems: Git, Subversion, and Perforce
+27 Conceptualized 25+ sessions to gather information from developers, stakeholders and clients
+28 Analyzed 35+ complex domains for business using functional requirements
+29 Created, established and utilized a unified repository which includes 150+ vital business documents
+30 Designed a functional test plan for 50+ projects.
+31 Worked in Agile-Scrum process model and attended daily scrum meetings with the team. Handled complete RBA(Resource Business Analytics) 32 project and attended client calls for
+33 requirement gathering. Applied relevant technical skills to deliver specifications, java program changes, Junit test
+34 scripts, wrote SRS documents. Planned, documented, and executed tests to ensure code changes meet requirements and
+35 specifications. Supported programming changes during quality assurance, user acceptance testing, and post implementation.
+36 Develop SharePoint page for IT department and manage updates
+37 Test and develop database management plan
+38 Research existing database methods and create study for suggested changes
+39 Lead data base project with 5 team members
+40 Lead weekly conference calls with management for status updates on project
+41 Create and maintain fully automated CI/CD pipelines for code deployment using Octopus Deploy and PowerShell
+42 Installed and configured Nagios to constantly monitor network bandwidth, memory usage, and hard drive status
+43 Managed GitHub repositories and permissions, including branching and tagging
+44 Configuration management using Puppet, Ansible, and Chef
+45 Knowledge of Python, C/C++, and Java
+46 Version control systems: Git, Subversion, and Perforce
+47 Conceptualized 25+ sessions to gather information from developers, stakeholders and clients
+48 Built an ecommerce site integrated with multiple payment APIs for a 32% in company revenue
+49 Developed new infrastructure to easily handle over a million client files 
+50 Consistently achieved 100% compliance with industry best practices
+51 Reduced security breaches by 84%
+52 Innovative software engineer offering four years of experience in the full software development lifecycle – from concept through delivery of next-generation applications and customizable solutions.
+53 Expert in advanced development methodologies, tools and processes contributing to the design and rollout of cutting-edge software applications.
+54 Known for excellent troubleshooting skills – able to analyze code and engineer well-researched, cost-effective and responsive solutions.
+55 Java, JavaScript, .Net, XML, J2EE, HTML, TCP/IP, REST, SOAP, SOA, Visual Studio .Net, Eclipse, SQL, MS SQL Server, MySQL, JUnit, jQuery
+56 C, C++, Tomcat, Spring Framework, Hibernate, Maven, JDeveloper, WebLogic, IIS, Google Web Toolkit and more
+57 Contributed software engineering expertise in the development of products through the software lifecycle, from requirements definition through successful deployment.
+58 Facilitated customization of systems by encouraging software engineering team to adopt emerging standards for software application development architecture and tools.
+59 Participated in sales presentations due to ability to translate user needs into easy-to-understand software solutions.
+60 Helped sales team close five major deals generating more than $150K in revenue.
+61 Excelled in rapid application development and management of technological issues for assigned projects, earning the highest customer satisfaction rating for all software solutions delivered.
+62 Introduced methodologies and best practices that enhanced product definition, release processes and customization of applications to user needs.
+63 Provided user requirements analysis, design and programming support for enhancement of Web application accessed by 5 million users worldwide.
+64 Fueled additional revenue stream through responsive customer support, generating $18K in new license sales within first few weeks of new product release.
+65 DoorDash September 2018 - current/Chicago IL
+66 Worked on building new Angular components for the customer-facing web app which improved the time on page for the average user by 2 minutes
+67 Worked within an agile team and helped prioritize and scope feature requests to ensure that the biggest impact features were worked on first
+68 Built extensive test coverage for all new features which reduced the number of customer complaints by 7% 
+69 Python Developer Knewton
+70 April 2016 - September 2018/Pittsburgh PA
